@@ -1,5 +1,5 @@
 ![](hero-img.jpg)
-# Hello, I am a front-end-developer by interest as well as it is my passion. 
+# Hello, I am a front-end developer by interest as well as it is my passion. 
 
 ## My Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
