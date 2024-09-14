@@ -13,4 +13,4 @@
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)	
 
 ## Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-bojdak-855862272/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%82ukasz-bojdak-855862272/)
